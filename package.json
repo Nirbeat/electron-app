@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "electron": "^21.1.1"
+  },
+  "name": "desktop-app",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Nirbeat",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
